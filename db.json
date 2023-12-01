@@ -1,10 +1,116 @@
-[
-  {
-    "filme": "dasdsad",
-    "genero": "das",
-    "nota": "9",
-    "duracao": "dasdas",
-    "direcao": "dasdas",
-    "id": 13
-  }
-]
+{
+  "atividades": [
+    {
+      "filme": "dasdsad",
+      "genero": "das",
+      "nota": "9",
+      "duracao": "dasdas",
+      "direcao": "dasdas",
+      "id": 13
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "login": "admin",
+      "senha": "123",
+      "nome": "Administrador do Sistema",
+      "email": "admin@abc.com"
+    },
+    {
+      "id": 2,
+      "login": "user",
+      "senha": "123",
+      "nome": "Usuario Comum",
+      "email": "user@abc.com"
+    },
+    {
+      "id": 3,
+      "nome": "Jeremias",
+      "idade": 19,
+      "grafico": [
+        {
+          "atividade": "Estudar Inglês",
+          "tempo_gasto": "60 minutos",
+          "data": "2023-10-13"
+        },
+        {
+          "atividade": "Estudar Programação",
+          "tempo_gasto": "180 minutos",
+          "data": "2023-10-14"
+        },
+        {
+          "atividade": "Ir ao bar",
+          "tempo_gasto": "150 minutos",
+          "data": "2023-10-15"
+        },
+        {
+          "atividade": "Jogar Video Game",
+          "tempo_gasto": "225 minutos",
+          "data": "2023-10-16"
+        },
+        {
+          "atividade": "Outras atividades",
+          "tempo_gasto": "90 minutos",
+          "data": "2023-10-16"
+        },
+        {
+          "atividade": "Assistir Filme",
+          "tempo_gasto": "170 minutos",
+          "data": "2023-10-17"
+        },
+        {
+          "atividade": "Assistir Série",
+          "tempo_gasto": "150 minutos",
+          "data": "2023-10-18"
+        },
+        {
+          "atividade": "Ir na Academia",
+          "tempo_gasto": "60 minutos",
+          "data": "2023-10-19"
+        },
+        {
+          "atividade": "Assistir Série",
+          "tempo_gasto": "90 minutos",
+          "data": "2023-10-19"
+        },
+        {
+          "atividade": "Assistir Filme",
+          "tempo_gasto": "125 minutos",
+          "data": "2023-10-17"
+        },
+        {
+          "atividade": "Estudar Programação",
+          "tempo_gasto": "62 minutos",
+          "data": "2023-10-19"
+        }
+      ]
+    }
+  ],
+  "amigos": [
+    {
+      "id": 1,
+      "login": "Augusto06",
+      "senha": "augustodabalaboa",
+      "nome": "Augusto",
+      "email": "augusto@abc.com"
+    },
+    {
+      "id": 2,
+      "login": "Kaiser098",
+      "senha": "123456",
+      "nome": "Douglas",
+      "email": "douglas@xyz.com"
+    },
+    {
+      "nome": "Jeremias",
+      "email": "undefined",
+      "id": 3
+    },
+    {
+      "nome": "Administrador do Sistema",
+      "email": "admin@abc.com",
+      "id": 4
+    }
+  ]
+}
