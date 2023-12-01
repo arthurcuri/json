@@ -1,99 +1,10 @@
-{
-  "filmes": [
+[
   {
-    "genero": "Filmes",
-    "nome": "Jogos Mortais X",
-    "orcamento": "15,00",
-    "endereco": "Rua dos Tupis, 337 - Centro, Belo Horizonte - MG, 30190-060",
-    "categoria": "Presencial",
-    "id": 1
-  },
-  {
-    "genero": "Lazer",
-    "nome": "Clube",
-    "orcamento": "0,00",
-    "endereco": "Rua dos Guajajaras, 1722 - Barro Preto, Belo Horizonte - MG, 30180-101",
-    "categoria": "Presencial",
-    "id": 2
-  },
-  {
-    "genero": "Lazer",
-    "nome": "Janta na Churrascaria",
-    "orcamento": "200,00",
-    "endereco": "Av. Colúmbia, 960 - Novo Riacho, Contagem - MG, 32280-670",
-    "categoria": "Presencial",
-    "id": 3
-  },
-  {
-    "genero": "Música",
-    "nome": "Spotify",
-    "orcamento": "30,00",
-    "endereco": "spotify.com",
-    "categoria": "Virtual",
-    "id": 4
-  },
-  {
-    "genero": "Estudo",
-    "nome": "Curso Informática",
-    "orcamento": "0,00",
-    "endereco": "cursoemvideo.com",
-    "categoria": "Virtual",
-    "id": 5
-  },
-  {
-    "genero": "Lazer",
-    "nome": "StandUp",
-    "orcamento": "30,00",
-    "endereco": "Av. do Contorno, 6061 - São Pedro, Belo Horizonte - MG, 30330-010",
-    "categoria": "Presencial",
-    "id": 6
-  },
-  {
-    "genero": "Lazer",
-    "nome": "GP do Brasil",
-    "orcamento": "790,00",
-    "endereco": "Av. Senador Teotônio Vilela, 261, Interlagos",
-    "categoria": "Presencial",
-    "id": 7
-  },
-  {
-    "genero": "Estudo",
-    "nome": "Icei Talks",
-    "orcamento": "0,00",
-    "endereco": "icei.pucminas.br",
-    "categoria": "Virtual",
-    "id": 8
-  },
-  {
-    "genero": "Lazer",
-    "nome": "Final Libertadores",
-    "orcamento": "260,00",
-    "endereco": "Av. Pres. Castelo Branco, Portão 3 - Maracanã, Rio de Janeiro - RJ, 20271-130",
-    "categoria": "Presencial",
-    "id": 9
-  },
-  {
-    "genero": "Lazer",
-    "nome": "Jogar",
-    "orcamento": "0,00",
-    "endereco": "store.steampowered.com",
-    "categoria": "Virtual",
-    "id": 10
-  },
-  {
-    "genero": "Lazer",
-    "nome": "CCBB",
-    "orcamento": "0,00",
-    "endereco": "Av. Bias Fortes, 50 - Lourdes, Belo Horizonte - MG, 30170-010",
-    "categoria": "Presencial",
-    "id": 11
-  },
-  {
-    "genero": "Lazer",
-    "nome": "Cruzeiro x Vasco",
-    "orcamento": "80,00",
-    "endereco": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte - MG, 31275-000",
-    "categoria": "Presencial",
-    "id": 12
+    "filme": "dasdsad",
+    "genero": "das",
+    "nota": "9",
+    "duracao": "dasdas",
+    "direcao": "dasdas",
+    "id": 13
   }
-}
+]
