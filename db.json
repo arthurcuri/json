@@ -1,34 +1,28 @@
-[
-  {
-    "filme": "Clube da Luta",
-    "genero": "Crime",
-    "nota": "10",
-    "duracao": "02:19:00",
-    "direcao": "David Fincher",
-    "id": 1
-  },
-  {
-    "filme": "Star Wars: Os Últimos Jedi",
-    "genero": "Ficção",
-    "nota": "10",
-    "duracao": "02:32:00",
-    "direcao": "Rian Johnson",
-    "id": 2
-  },
-  {
-    "filme": "The Room",
-    "genero": "Drama",
-    "nota": "1",
-    "duracao": "01:33:00",
-    "direcao": "Tommy Wiseau,",
-    "id": 3
-  },
-  {
-    "filme": "Como Treinar o Seu Dragão",
-    "genero": "Animação",
-    "nota": "10",
-    "duracao": "",
-    "direcao": "Chris Sanders e Dean DeBlois",
-    "id": 4
-  }
-]
+{
+  "filmes": [
+    {
+      "filmeId": "123",
+      "titulo": "Inception",
+      "generos": "Ação, Aventura, Ficção Científica",
+      "linguas": "Inglês, Japonês, Francês",
+      "notaUsuario": "4.5",
+      "comentarioUsuario": "Um filme incrível com uma narrativa complexa."
+    },
+    {
+      "filmeId": "456",
+      "titulo": "The Matrix",
+      "generos": "Ação, Ficção Científica",
+      "linguas": "Inglês",
+      "notaUsuario": "5",
+      "comentarioUsuario": "Filme revolucionário e muito à frente do seu tempo."
+    },
+    {
+      "filmeId": "789",
+      "titulo": "Interstellar",
+      "generos": "Aventura, Drama, Ficção Científica",
+      "linguas": "Inglês",
+      "notaUsuario": "4.8",
+      "comentarioUsuario": "Visualmente impressionante e emocionalmente cativante."
+    }
+  ]
+}
